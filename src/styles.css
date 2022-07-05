@@ -1,0 +1,55 @@
+h1 {
+  font-weight: 400;
+  display: block;
+  padding: 20px;
+  margin: 0px 30px;
+  color: #373163;
+}
+
+h2 {
+  display: block;
+  padding: 20px;
+  margin: 0px 30px;
+  color: #373163;
+}
+
+h3 {
+  font-size: medium;
+  color: #ab47bd;
+  font-size: 24px;
+}
+
+p {
+  display: block;
+  color: #ab47bd;
+  padding: 0px 20px;
+  margin: 0px 30px;
+  font-size: 20px;
+}
+i {
+  font-size: 45px;
+  color: #373163;
+  display: block;
+}
+
+.card {
+  padding: 40px 40px;
+  margin: 100px auto;
+  border-color: #ff3366;
+  border-radius: 20px;
+  display: block;
+  width: 60%;
+}
+.form-control {
+  border-color: #ff3366;
+}
+.week {
+  display: block;
+  width: 100%;
+  padding: 20px;
+  margin: auto;
+}
+.temperature {
+  color: #4d4c7d;
+  font-size: 18px;
+}
