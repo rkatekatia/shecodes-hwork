@@ -34,7 +34,7 @@ i {
 
 .card {
   padding: 40px 40px;
-  margin: 100px auto;
+  margin: 100px auto 0;
   border-color: #ff3366;
   border-radius: 20px;
   display: block;
@@ -52,4 +52,13 @@ i {
 .temperature {
   color: #4d4c7d;
   font-size: 18px;
+}
+.reference {
+  margin: 0px auto;
+  display: block;
+  width: 60%;
+  font-size: medium;
+}
+.author {
+  color: #373163;
 }
